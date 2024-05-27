@@ -1,0 +1,170 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: rgb(88, 88, 88);
+}
+.contenedor{
+    position: relative;
+    margin: auto;
+    width: 72.917vw;
+    height: 41.667vw;
+    background-color: #ffffff;
+    top: 7.292vw;
+}
+.contenido .Metro{
+    position: relative;
+    height: 2.292vw;
+    width: 10.208vw;
+    top : 2.24vw;
+    left: 2.24vw;
+}
+.contenido{
+    position: relative;
+    font-size: 1.563vw;
+    color: black;
+    margin-top: -1vw;
+}
+.contenido .p1{
+    font-size: 1.563vw;
+    position: relative;
+    left: 36.458vw;
+    bottom: 4.479vw;
+    color: black;
+    top: -2.2402vw;
+}
+.contenido .p2{
+    position: absolute;
+    font-size: 1.563vw;
+    color: black;
+    margin-left: 50vw;
+    margin-top: -5.7vw;
+}
+.contenido .p3{
+    position: relative;
+    font-size: 1.563vw;
+    color: black;
+    margin-left: 52%;
+    top: -5vw;
+}
+.contenido .busqueda{
+    font-size: 1.563vw;
+    position: absolute;
+    margin-left: 58.083vw;
+    color: black;
+    margin-top: -5.592vw;
+    width: 2vw;
+}
+.contenido .carrito{
+    font-size: 1.563vw;
+    position: absolute;
+    left: 61.688vw;
+    color: black;
+    margin-top: -5.592vw;
+    width: 2vw;
+}
+.tarjeta img{
+    position: absolute;
+    margin-top: -7vw;
+    margin-left: 6vw;
+    width: 46vw;
+    height: 25vw;
+}
+.contenido2{
+    position: relative;
+    font-size: 1.563vw;
+    position: absolute;
+    width: 100vw;
+    margin-left: 2.24vw;
+    color: black;
+    margin-top: 13.802vw;
+    display: flex;
+    justify-content: left;
+}
+.contenido2 .p1{
+    font-size: 1.563vw;
+    position: absolute;
+    margin-left: 2.24vw;
+    color: black;
+    margin-top: 6.802vw;
+}
+.contenido2 .p2{
+    font-size: 1.563vw;
+    position: absolute;
+    left: 2.24vw;
+    bottom: 86;
+    color: black;
+    margin-top: 8.802vw;
+}
+.contenido2 .p3{
+    font-size: 1.563vw;
+    position: relative;
+    left: 51.854vw;
+    height: 8vw;
+    margin-top: 7vw;
+}
+.contenido2 .p4{
+    font-size: 1.563vw;
+    position: absolute;
+    left: 52.221vw;
+    width: 10vw;
+    color: black;
+    margin-top: 8vw;
+    z-index: 1;
+}
+.contenido2 .p5{
+    font-size: 1.563vw;
+    position: relative;
+    margin-left: 43.521vw;
+    color: black;
+    margin-top: 11.417vw;
+}
+.contenido3{
+    position: absolute;
+    margin-left: 68.229vw;
+    color: black;
+    margin-top: -10.45vw;
+    width: 5.78vw;  
+}
+.contenido3 .p1{
+    position: absolute;
+    color: black;
+    width: 5.78vw;
+}
+.contenido3 .p2{
+    position: relative;
+    margin-left: 2vw;
+    color: black;
+    height: 1vw;
+}
+.contenido3 .p3{
+    font-size: 1.7vw;
+    position: relative;
+    color: #ffffff;
+    margin-top: 5vw;
+}
+.contenido3 .p4{
+    font-size: 1.7vw;
+    position: relative;
+    color: #ffffff;
+    margin-left: 2vw;
+    margin-top: 8vw;
+}
+.contenido3 .p5{
+    font-size: 1.7vw;
+    position: relative;
+    color: #ffffff;
+    margin-left: 2vw;
+}
+.contenido3 .p6{
+    font-size: 1.7vw;
+    position: relative;
+    color: #ffffff;
+    margin-left: 2vw;
+}
+.contenido3 .p7{
+    position: relative;
+    margin-top: 11.5vw;
+    margin-left: 2vw;
+    height: 1vw;
+}

@@ -1,0 +1,187 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: rgb(88, 88, 88);
+}
+.contenedor{
+    position: relative;
+    margin: auto;
+    width: 72.917vw;
+    height: 41.667vw;
+    background-color: #ffffff;
+    top: 7.292vw;
+}
+.contenido .metro{
+    position: relative;
+    height: 2.292vw;
+    width: 10.208vw;
+    top : 2.24vw;
+    left: 2.24vw;
+}
+.contenido{
+    position: relative;
+    font-size: 1.563vw;
+    color: black;
+}
+.contenido .p1{
+    font-size: 1.563vw;
+    position: relative;
+    left: 26.458vw;
+    bottom: 4.479vw;
+    color: black;
+    top: 2.2402vw;
+}
+.contenido .p2{
+    position: absolute;
+    font-size: 1.563vw;
+    color: black;
+    margin-left: 50vw;
+    top: 1.6vw;
+}
+.contenido .p3{
+    position: absolute;
+    font-size: 1vw;
+    color: black;
+    margin-left: 49.6vw;
+    top: 3vw;
+}
+.contenido .busqueda{
+    font-size: 1.563vw;
+    position: absolute;
+    margin-left: 36.083vw;
+    color: black;
+    margin-top: 3.3vw;
+    width: 2vw;
+}
+.contenido .carrito{
+    font-size: 1.563vw;
+    position: absolute;
+    left: 61.688vw;
+    color: black;
+    margin-top: 3.3vw;
+    width: 2vw;
+}
+.tarjeta img{
+    position: relative;
+    margin-top: 2vw;
+    margin-left: -10vw;
+    width: 46vw;
+    height: 25vw;
+}
+.contenido2{
+    margin-left: -8vw;
+    font-size: 1.563vw;
+    position: absolute;
+    width: 100vw;
+    color: black;
+    margin-top: 13.802vw;
+    display: flex;
+    justify-content: center;
+}
+.contenido2 .p1{
+    font-size: 1.563vw;
+    position: absolute;
+    color: black;
+    margin-top: -15.802vw;
+    margin-left: -22vw;
+}
+.contenido2 .p2{
+    font-size: 1.563vw;
+    position: absolute;
+    color: black;
+    margin-top: -12.802vw;
+    margin-left: -22vw;
+}
+.contenido2 .p3{
+    font-size: 1.563vw;
+    position: absolute;
+    color: black;
+    margin-top: -10.802vw;
+    margin-left: -22vw;
+}
+.contenido2 .p4{
+    font-size: 1.563vw;
+    position: absolute;
+    color: black;
+    margin-top: -8.502vw;
+    margin-left: -22vw;
+    border: 0.1vw solid rgb(88, 88, 88);
+}
+.contenido3{
+    position: absolute;
+    margin-left: 68.229vw;
+    color: black;
+    margin-top: -30.8vw;
+    width: 5.78vw;  
+}
+.contenido3 .p1{
+    position: absolute;
+    color: black;
+    width: 5.78vw;
+}
+.contenido3 .p2{
+    position: relative;
+    margin-left: 2vw;
+    color: black;
+    height: 1vw;
+}
+.contenido3 .p3{
+    font-size: 1.7vw;
+    position: relative;
+    color: #ffffff;
+    margin-top: 5vw;
+    margin-left: 1vw;
+}
+.contenido3 .p4{
+    font-size: 1.7vw;
+    position: relative;
+    color: #ffffff;
+    margin-left: 1vw;
+    margin-top: 8vw;
+}
+.contenido3 .p5{
+    font-size: 1.7vw;
+    position: relative;
+    color: #ffffff;
+    margin-left: 1vw;
+}
+.contenido3 .p6{
+    font-size: 1.7vw;
+    position: relative;
+    color: #ffffff;
+    margin-left: 1vw;
+}
+.contenido3 .p7{
+    position: relative;
+    margin-top: 11vw;
+    margin-left: 2vw;
+    height: 1vw;
+}
+.contenido4{
+    margin-left: 3vw;
+    margin-top: -5vw;
+}
+.contenido4 .p1{
+    font-size: 1.563vw;
+    position: relative;
+    left: 51.854vw;
+    height: 8vw;
+    margin-top: 7vw;
+}
+.contenido4 .p2{
+    font-size: 1.563vw;
+    position: absolute;
+    left: 55.221vw;
+    width: 10vw;
+    color: black;
+    margin-top: 8vw;
+    z-index: 1;
+}
+.contenido4 .p3{
+    font-size: 1.563vw;
+    position: relative;
+    margin-left: 54.521vw;
+    color: black;
+    margin-top: -5.417vw;
+}
